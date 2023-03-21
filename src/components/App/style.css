@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #20262e;
+  padding: 20px 30px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-content {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.navbar-tabs {
+  margin: 0 20px;
+}
+
+.navbar-tab {
+  color: white;
+  margin: 10px;
+  text-decoration: 0;
+}
+
+.navbar-text {
+  color: rgb(241, 242, 243);
+  text-decoration: none;
+}
+.navbar-text:hover {
+  color: #b46060;
+  transition: all ease-in 300ms;
+}
